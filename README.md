@@ -1,7 +1,7 @@
 <div align="center"> 
   
- <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://github.com/sudhanshu105/sudhanshu105/blob/output/github-contribution-grid-snake.svg" />
+<!-- <h2>🐍 Contributions 🐍</h2>
+ <img alt="snake eating my contributions" src="https://github.com/sudhanshu105/sudhanshu105/blob/output/github-contribution-grid-snake.svg" /> -->
 
 <h2 align="center">Leetcode Info<h2>
 
